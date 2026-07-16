@@ -12,9 +12,9 @@
 class AiUsagebar < Formula
   desc "Status-bar widget and tabbed TUI for AI plan usage (Anthropic/OpenAI/Z.AI/OpenRouter)"
   homepage "https://github.com/Zenardi/ai-usagebar"
-  url "https://github.com/Zenardi/ai-usagebar/releases/download/v0.5.0/ai-usagebar-darwin-arm64.tar.gz"
-  version "0.5.0"
-  sha256 "a939cfd81c76ee5f0dbbb3946d0d4ebe7730061bcccddb4e4ba215f9a6cdca2e"
+  url "https://github.com/Zenardi/ai-usagebar/releases/download/v0.5.1/ai-usagebar-darwin-arm64.tar.gz"
+  version "0.5.1"
+  sha256 "39b2ae0521d8a067800bfaa91458b749f514282a1bdc4019653dafc70fc4855c"
   license "MIT"
   depends_on :macos
   depends_on arch: :arm64
